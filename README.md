@@ -36,6 +36,12 @@ International Cartographic Association (ICA) <https://icaci.org/email-newsletter
 
 OpenStreetMapUS [Sign up](https://openstreetmap.us3.list-manage.com/subscribe?u=162692bfdedb78ec46fd108a3&id=801ce00e6d)
 
+GIM International <https://www.gim-international.com/>
+
+Geospatial World <https://www.geospatialworld.net/>
+
+L3Harris Geospatial <https://www.l3harrisgeospatial.com/>
+
 ### Spanish / Español
 
 Nosolosig <http://www.nosolosig.com/sumate-a-nosolosig>
@@ -68,6 +74,8 @@ UAS Magazine <http://www.uasmagazine.com/newsletter/uasweek/>
 The American surveyor Magazine <https://amerisurv.com/plans/subscribe-to-american-surveyor/>
 
 Point of Beginning [Sign up](https://webforms.omeda.com/pob/r-paid.do?returnurl=https://www.pobonline.com/user/omeda&p=POBPAID&_ga=2.196656876.1199010476.1603422832-1558881755.1603422832)
+
+Coordinates <https://mycoordinates.org/>
 
 ### General Tech & Management
 
